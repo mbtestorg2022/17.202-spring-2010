@@ -5,6 +5,7 @@ description: Example student essay for an assignment to take a week's readings a
   answer to the question.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/e6e8d39ecd56a31f2e14f2f2b748717e_MIT17_202S10_Bureacracy_es.pdf
 file_type: application/pdf
+parent_uid: a6e62df1-3aed-eb47-7c02-c37c8691fe02
 resourcetype: Document
 title: Bureaucracy
 uid: e6e8d39e-cd56-a31f-2e14-f2f2b748717e

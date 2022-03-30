@@ -5,6 +5,7 @@ description: Comments from the course professor on the role of parties in Congre
   of measurement in congressional scholarship.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/5747565276c3811ddbc16384ad4806cb_MIT17_202S10_readcomses3.pdf
 file_type: application/pdf
+parent_uid: 200e69b0-652f-f8c6-d7f4-9c4c0c835f89
 resourcetype: Document
 title: Comments on congressional readings
 uid: 57475652-76c3-811d-dbc1-6384ad4806cb

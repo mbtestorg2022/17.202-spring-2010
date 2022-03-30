@@ -5,6 +5,7 @@ description: Example student essay for an assignment to take a week's readings a
   answer to the question.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/4d4e9b585388b89dd854690bd97ffd55_MIT17_202S10_Congress_es.pdf
 file_type: application/pdf
+parent_uid: a6e62df1-3aed-eb47-7c02-c37c8691fe02
 resourcetype: Document
 title: Congress
 uid: 4d4e9b58-5388-b89d-d854-690bd97ffd55
